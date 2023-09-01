@@ -1,4 +1,4 @@
-# Desconto
-Aplicação simples para gerar deconto de 10% em valores acima de R$ 100
+# Discount
+Simple application to generate a 10% discount on amounts over R$ 100
 
-uma linha de codigo simples para estudo de estrutura condicional 
+a simple line of code to study the conditional structure 
