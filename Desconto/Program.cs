@@ -7,18 +7,18 @@ namespace uri1008
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Insira o preço do produto: ");
+            Console.WriteLine("Enter the price of the product: ");
 
-            double preco = double.Parse(Console.ReadLine());
-            double desconto = 0.0;
+            double price = double.Parse(Console.ReadLine());
+            double discount = 0.0;
                         
-            if (preco > 100.00)
+            if (price > 100.00)
             {
-                desconto = preco * 0.1;
+                discount = price * 0.1;
             }
 
-            Console.WriteLine("O valor do desconto é: ");
-            Console.WriteLine(desconto);
+            Console.WriteLine("The value of the discount is: ");
+            Console.WriteLine(discount);
         }
     }
 }
